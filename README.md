@@ -1,3 +1,4 @@
+
 # text-version-manager
 
 ## The Purpose
@@ -43,3 +44,8 @@ This method restores a version of file.txt
 ```python
 txtVM.restore() 
 ```
+
+## Future
+- [ ] Multiple file versions
+- [ ] Multiple text extensions support
+- [ ] Error Handling
